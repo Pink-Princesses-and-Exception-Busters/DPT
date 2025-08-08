@@ -103,7 +103,7 @@ function App() {
             <form className="space-y-6" onSubmit={isSignUp ? handleSignUp : handleSignIn}>
               <div>
                 <label htmlFor="email" className="block text-sm font-medium text-gray-700">
-                  이메일
+                  이메일론머스크
                 </label>
                 <div className="mt-1">
                   <input
@@ -122,7 +122,7 @@ function App() {
 
               <div>
                 <label htmlFor="password" className="block text-sm font-medium text-gray-700">
-                  비밀번호
+                  비밀번호랑이
                 </label>
                 <div className="mt-1">
                   <input
